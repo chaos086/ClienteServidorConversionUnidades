@@ -4,6 +4,7 @@ import java.io.*;
 import java.net.*;
 import java.util.Scanner;
 
+// En la parte del HOST se cambia según la dirección IP de la maquina virtual el cual sería el servidor
 public class Cliente {
     private static final String HOST = "192.168.56.101";
     private static final int PUERTO = 12345;
